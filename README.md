@@ -1,2 +1,2 @@
 # GitProjetos
-11111
+Aqui estão alguns exercicios de JavaScript!
