@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+			background-color: #EFEFEF; 
+			color: rgba(0,0,0,0.5);
+		}
+		p {
+			text-align: justify;
+			text-indent: 50px;
+		}
+/*Formatação de Imagens com legenda*/
+figure.foto-legenda{
+	border: 5px solid yellow;
+}
+figure.foto-legenda img {
+	width: 60%;
+	height: 60%;
+}
